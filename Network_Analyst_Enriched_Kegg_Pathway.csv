@@ -1,0 +1,121 @@
+Pathway,Total,Expected,Hits,P.Value,FDR
+Glutamatergic synapse,114,23,64,1.71E-17,5.43E-15
+Calcium signaling pathway,188,37.9,86,1.08E-15,1.72E-13
+MAPK signaling pathway,295,59.5,116,1.02E-14,1.08E-12
+Long-term potentiation,67,13.5,39,7.72E-12,6.14E-10
+Axon guidance,181,36.5,76,1.11E-11,6.49E-10
+Nicotine addiction,40,8.07,28,1.22E-11,6.49E-10
+Oxytocin signaling pathway,153,30.9,66,6.29E-11,2.86E-09
+Proteoglycans in cancer,201,40.6,79,2.19E-10,8.69E-09
+Circadian entrainment,97,19.6,47,3.32E-10,1.17E-08
+cAMP signaling pathway,212,42.8,80,1.65E-09,5.25E-08
+Aldosterone synthesis and secretion,98,19.8,46,1.91E-09,5.51E-08
+GABAergic synapse,89,18,43,2.11E-09,5.59E-08
+Synaptic vesicle cycle,78,15.7,39,3.42E-09,8.36E-08
+Fc gamma R-mediated phagocytosis,91,18.4,43,4.99E-09,1.13E-07
+Rap1 signaling pathway,206,41.6,77,5.53E-09,1.17E-07
+cGMP-PKG signaling pathway,166,33.5,65,1.06E-08,1.99E-07
+Cholinergic synapse,112,22.6,49,1.06E-08,1.99E-07
+Platelet activation,124,25,52,2.19E-08,3.87E-07
+Dopaminergic synapse,131,26.4,54,2.40E-08,4.02E-07
+Focal adhesion,199,40.1,73,3.45E-08,5.49E-07
+Adrenergic signaling in cardiomyocytes,145,29.3,57,7.28E-08,1.10E-06
+AGE-RAGE signaling pathway in diabetic complications,100,20.2,43,1.54E-07,2.23E-06
+Cell adhesion molecules (CAMs),146,29.5,56,2.51E-07,3.48E-06
+Phosphatidylinositol signaling system,99,20,42,3.37E-07,4.47E-06
+Ras signaling pathway,232,46.8,79,3.68E-07,4.68E-06
+Amphetamine addiction,68,13.7,32,5.18E-07,6.34E-06
+Morphine addiction,91,18.4,39,6.44E-07,7.59E-06
+Sphingolipid signaling pathway,119,24,47,8.64E-07,9.65E-06
+Long-term depression,60,12.1,29,8.80E-07,9.65E-06
+Phospholipase D signaling pathway,148,29.9,55,1.06E-06,1.08E-05
+Retrograde endocannabinoid signaling,148,29.9,55,1.06E-06,1.08E-05
+Phagosome,152,30.7,56,1.16E-06,1.16E-05
+GnRH signaling pathway,93,18.8,39,1.26E-06,1.21E-05
+Vascular smooth muscle contraction,132,26.6,50,1.70E-06,1.59E-05
+Regulation of actin cytoskeleton,214,43.2,72,2.01E-06,1.83E-05
+Pathways in cancer,530,107,150,2.13E-06,1.87E-05
+Gap junction,88,17.8,37,2.17E-06,1.87E-05
+ErbB signaling pathway,85,17.1,36,2.42E-06,2.03E-05
+Renin secretion,69,13.9,31,2.70E-06,2.20E-05
+Cellular senescence,160,32.3,57,3.22E-06,2.56E-05
+Serotonergic synapse,115,23.2,44,5.19E-06,4.02E-05
+Apelin signaling pathway,137,27.6,50,5.89E-06,4.46E-05
+Gastric acid secretion,75,15.1,32,7.23E-06,5.35E-05
+EGFR tyrosine kinase inhibitor resistance,79,15.9,33,9.04E-06,6.53E-05
+HTLV-I infection,219,44.2,71,1.04E-05,7.19E-05
+Inflammatory mediator regulation of TRP channels,100,20.2,39,1.04E-05,7.19E-05
+Melanogenesis,101,20.4,39,1.37E-05,9.26E-05
+Bacterial invasion of epithelial cells,74,14.9,31,1.57E-05,0.000102
+Leishmaniasis,74,14.9,31,1.57E-05,0.000102
+Osteoclast differentiation,128,25.8,46,2.18E-05,0.000139
+Wnt signaling pathway,158,31.9,54,2.29E-05,0.000143
+Arrhythmogenic right ventricular cardiomyopathy (ARVC),72,14.5,30,2.43E-05,0.000148
+Insulin secretion,86,17.4,34,2.71E-05,0.00016
+Renal cell carcinoma,69,13.9,29,2.72E-05,0.00016
+Kaposi's sarcoma-associated herpesvirus infection,186,37.5,61,2.93E-05,0.000169
+Salivary secretion,90,18.2,35,3.13E-05,0.000178
+Dilated cardiomyopathy,91,18.4,35,4.12E-05,0.00023
+Fluid shear stress and atherosclerosis,139,28,48,4.78E-05,0.000262
+Endocrine and other factor-regulated calcium reabsorption,48,9.68,22,5.19E-05,0.00028
+Hypertrophic cardiomyopathy (HCM),85,17.1,33,5.45E-05,0.000289
+Glioma,75,15.1,30,6.13E-05,0.00032
+Pertussis,76,15.3,30,8.20E-05,0.000421
+Endocytosis,244,49.2,74,8.56E-05,0.000432
+Hepatitis B,163,32.9,53,0.000123,0.000608
+Inositol phosphate metabolism,74,14.9,29,0.000125,0.000608
+Choline metabolism in cancer,99,20,36,0.000126,0.000608
+B cell receptor signaling pathway,71,14.3,28,0.000143,0.000679
+Neurotrophin signaling pathway,119,24,41,0.000176,0.000824
+PI3K-Akt signaling pathway,354,71.4,99,0.000198,0.000914
+Tuberculosis,179,36.1,56,0.000252,0.00115
+Chagas disease (American trypanosomiasis),103,20.8,36,0.000312,0.0014
+Viral carcinogenesis,201,40.6,61,0.000343,0.00151
+Fc epsilon RI signaling pathway,68,13.7,26,0.000435,0.00187
+Epithelial cell signaling in Helicobacter pylori infection,68,13.7,26,0.000435,0.00187
+Neuroactive ligand-receptor interaction,338,68.2,93,0.000561,0.00238
+Rheumatoid arthritis,91,18.4,32,0.000584,0.00244
+Epstein-Barr virus infection,201,40.6,60,0.000613,0.00253
+Acute myeloid leukemia,66,13.3,25,0.000655,0.00267
+Amoebiasis,96,19.4,33,0.000765,0.00308
+HIF-1 signaling pathway,100,20.2,34,0.000801,0.00318
+"Alanine, aspartate and glutamate metabolism",36,7.26,16,0.000827,0.00325
+Insulin resistance,108,21.8,36,0.000865,0.00335
+Type I diabetes mellitus,43,8.68,18,0.000949,0.00364
+Shigellosis,65,13.1,24,0.00127,0.0048
+Amyotrophic lateral sclerosis (ALS),51,10.3,20,0.00135,0.00504
+Hippo signaling pathway,154,31.1,47,0.00138,0.00511
+VEGF signaling pathway,59,11.9,22,0.00172,0.00629
+Autophagy - animal,128,25.8,40,0.00188,0.00678
+Cocaine addiction,49,9.89,19,0.00206,0.00735
+Toxoplasmosis,113,22.8,36,0.00214,0.00756
+Oocyte meiosis,125,25.2,39,0.00219,0.00762
+Insulin signaling pathway,137,27.6,42,0.0022,0.00762
+TNF signaling pathway,110,22.2,35,0.00251,0.00857
+Staphylococcus aureus infection,68,13.7,24,0.00257,0.0087
+Vibrio cholerae infection,50,10.1,19,0.0027,0.00904
+Ferroptosis,40,8.07,16,0.00314,0.0104
+TGF-beta signaling pathway,92,18.6,30,0.00328,0.0108
+FoxO signaling pathway,132,26.6,40,0.00349,0.0112
+Leukocyte transendothelial migration,112,22.6,35,0.0035,0.0112
+Aldosterone-regulated sodium reabsorption,37,7.47,15,0.0036,0.0115
+Chemokine signaling pathway,190,38.3,54,0.00369,0.0116
+Longevity regulating pathway,89,18,29,0.00385,0.012
+Thyroid hormone synthesis,74,14.9,25,0.00414,0.0128
+ECM-receptor interaction,82,16.5,27,0.00442,0.0135
+Estrogen signaling pathway,138,27.8,41,0.00462,0.014
+Endocrine resistance,98,19.8,31,0.00474,0.0141
+Pancreatic secretion,98,19.8,31,0.00474,0.0141
+Hepatitis C,155,31.3,45,0.00499,0.0147
+Complement and coagulation cascades,79,15.9,26,0.0052,0.0152
+Natural killer cell mediated cytotoxicity,131,26.4,39,0.00543,0.0157
+Adherens junction,72,14.5,24,0.00594,0.017
+Type II diabetes mellitus,46,9.28,17,0.00616,0.0175
+Thyroid hormone signaling pathway,116,23.4,35,0.0065,0.0181
+NOD-like receptor signaling pathway,178,35.9,50,0.00651,0.0181
+Adipocytokine signaling pathway,69,13.9,23,0.00699,0.0193
+Prolactin signaling pathway,70,14.1,23,0.00847,0.0232
+Salmonella infection,86,17.4,27,0.00898,0.0244
+Pancreatic cancer,75,15.1,24,0.0104,0.0279
+Glucagon signaling pathway,103,20.8,31,0.0104,0.0279
+mTOR signaling pathway,153,30.9,43,0.011,0.029
