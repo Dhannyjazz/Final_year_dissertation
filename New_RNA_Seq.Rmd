@@ -1,0 +1,64 @@
+---
+title: "Rna_Seq_New"
+output: html_document
+date: '2023-04-23'
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+```{r}
+library("GEOquery")
+library("DESeq2")
+```
+
+```{r}
+getGEOSuppFiles("GSE87194", makeDirectory = FALSE)
+```
+
+```{r}
+Exp_datan <- read.delim("GSE87194.top.table.tsv", header = TRUE, sep = "\t")
+head(Exp_datan,5)
+```
+
+```{r}
+library(dplyr)
+Degs = filter(as.data.frame(Exp_datan), padj<0.5 & abs(log2FoldChange)>0)
+nrow(Degs)
+```
+UPREGULATED DEGS
+```{r}
+UP_Deg2 <- filter(as.data.frame(Exp_datan),padj<0.5 & log2FoldChange >0)
+nrow(UP_Deg2)
+```
+DownRegulated DEGS
+```{r}
+Down_Deg2 <- filter(as.data.frame(Exp_datan),padj<0.5 & log2FoldChange <0)
+nrow(Down_Deg2)
+```
+
+```{r}
+Rna_seq_Deg <- Degs$Symbol
+head(Rna_seq_Deg)
+```
+```{r}
+length(Rna_seq_Deg)
+```
+```{r eval=FALSE}
+install.packages("ggvenn")
+library('ggvenn')
+D = list(MicroArray_Degs = degs_micro, RNASEQ_Degs = Rna_seq_Deg)
+ggvenn(D,show_percentage = FALSE)
+```
+```{r eval=FALSE}
+common <- intersect(degs_micro,Rna_seq_Deg)
+head(common, 10)
+
+```
+```{r eval=FALSE}
+write.table(common, file = "DEG_Ups.txt", col.names = FALSE,row.names = FALSE, quote = FALSE)
+```
+```{r}
+```
+
+
